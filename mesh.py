@@ -2,7 +2,7 @@ import sys
 import matplotlib.pyplot as plt
 from scipy.spatial import Delaunay
 import math
-from settings import *
+import numpy as np
 from geometry_functions import find_centroid, is_valid_position_in_circles, is_valid_position_in_squares
 
 
