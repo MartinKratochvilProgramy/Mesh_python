@@ -1,6 +1,6 @@
 import numpy as np
-L = 1
-H = 1
+L = 1       #lenght
+H = 1       #height
 #definice prázdných kružnic
 Xc = np.array([0., 0.5])
 Yc = np.array([0., 0.5])
