@@ -1,4 +1,4 @@
-from settings import *
+from settings import nb_element, curvature, L, H, Xc, Yc, Rc, Xs, Ys, Sa, Sb
 from mesh import create_mesh
 
 if __name__ == '__main__':
